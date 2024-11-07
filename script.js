@@ -1,4 +1,9 @@
 //console.log("Hello World");
-
+// This person : ...
+const personArray = ['Me', 'Your future self', 'Albert Einstein', 'Your bestfriend', 'Donald Trump', 'Your neighbor', 'Your crush', 'A complete stranger', 'Your father', 'Your mother', 'The Lord Himself'];
+// when this person thinks about you, he feels ...
+const emotionArray = ['Love', 'Hate' ,'Disgust', 'Pity', 'Fear', 'Joy', 'Jalous', 'Angry', 'Suspicious', 'Admiration', 'Sadness'];
+// this feeling ...
+const durationArray = ['lasted a brief moment', 'stayed a whole year', 'never disappeared', 'stayed for the weekend', 'lasted for one tea cup', 'will always be remembered', 'will stay for 3 days'];
 
 
